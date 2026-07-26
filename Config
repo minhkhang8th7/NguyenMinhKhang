@@ -2,7 +2,6 @@
   "version": 8,
   "buttons": [
     { "name": "[ Mặc Định ]", "id": 0 },
-    { "name": "[ Mặc Định Theo Skin ]", "id": 0 },
     { "name": "[ Aoi ] Misaka Titan", "id": 70 },
     { "name": "[ Airi ] Thứ Nguyên Vệ Thần", "id": 12 },
     { "name": "[ Alice ] Eternal Sailor Chibi Moon", "id": 5 },
@@ -78,7 +77,6 @@
   ],
   "billboards": [
     { "name": "[ Mặc Định ]", "id": 0 },
-    { "name": "[ Mặc Định Theo Skin ]", "id": 0 },
     { "name": "[ Aoi ] Misaka Titan", "id": 70 },
     { "name": "[ Airi ] Thứ Nguyên Vệ Thần", "id": 12 },
     { "name": "[ Alice ] Eternal Sailor Chibi Moon", "id": 5 },
@@ -153,11 +151,11 @@
     { "name": "[ Natalya ] Thánh Ca Huyết Tế", "id": 77 }
   ],
   "soldierSkins": [
-    { "name": "lính thường", "id": 0 },
-    { "name": "Lính Conan", "id": 93001 },
-    { "name": "Cinnamon", "id": 93003 },
-    { "name": "Attack On Titan", "id": 93004 },
-    { "name": "Lính Yêu Tinh", "id": 93002 }
+    { "name": "[ Mặc Định ]", "id": 0 },
+    { "name": "[ Lính Conan ]", "id": 93001 },
+    { "name": "[ Lính Cinnamon ]", "id": 93003 },
+    { "name": "[ Lính AOT ]", "id": 93004 },
+    { "name": "[ Lính Yêu Tinh ]", "id": 93002 }
   ],
   "excludedSkins": {
     "106": [11, 20],
