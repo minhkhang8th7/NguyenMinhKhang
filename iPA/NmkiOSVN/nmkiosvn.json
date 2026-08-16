@@ -59,7 +59,7 @@
     "projectID": "10000000-0000-0000-0000-000000000004",
     "isOn": false
   },
-    {
+  {
     "id": "sup-feature-111",
     "title": "Aim",
     "subtitle": "",
@@ -71,7 +71,7 @@
     "bundleID": "com.dts.freefireth",
     "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
     "replacementFilename": "SecurityNmkiOSVN5",
-    "projectID": "10000000-0000-0000-0000-00000000030",
+    "projectID": "10000000-0000-0000-0000-000000000030",
     "isOn": false
   },
   {
@@ -79,7 +79,7 @@
     "title": "Chams Súng Trắng",
     "subtitle": "",
     "content": "Định vị súng nhìn xuyên tường.",
-    "icon": "5.circle.fill",
+    "icon": "eye.fill",
     "tintHex": "#FF2D55",
     "targetAppID": "normal",
     "categoryID": "chams",
@@ -94,7 +94,7 @@
     "title": "Chams Súng Xanh Dương",
     "subtitle": "",
     "content": "Định vị súng nhìn xuyên tường.",
-    "icon": "6.circle.fill",
+    "icon": "eye.fill",
     "tintHex": "#32ADE6",
     "targetAppID": "normal",
     "categoryID": "chams",
@@ -224,19 +224,19 @@
     "projectID": "20000000-0000-0000-0000-000000000004",
     "isOn": false
   },
-      {
-    "id": "sup-feature-101",
+  {
+    "id": "lion-feature-101",
     "title": "Aim",
     "subtitle": "",
     "content": "hihi.",
     "icon": "5.circle.fill",
     "tintHex": "#007AFF",
-    "targetAppID": "normal",
+    "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
     "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
     "replacementFilename": "SecurityNmkiOSVN5",
-    "projectID": "10000000-0000-0000-0000-000000000031",
+    "projectID": "20000000-0000-0000-0000-000000000031",
     "isOn": false
   },
   {
@@ -244,7 +244,7 @@
     "title": "Chams Súng Trắng",
     "subtitle": "",
     "content": "Định vị súng nhìn xuyên tường.",
-    "icon": "5.circle.fill",
+    "icon": "eye.fill",
     "tintHex": "#FF2D55",
     "targetAppID": "max",
     "categoryID": "chams",
@@ -259,7 +259,7 @@
     "title": "Chams Súng Xanh Dương",
     "subtitle": "",
     "content": "Định vị súng nhìn xuyên tường.",
-    "icon": "6.circle.fill",
+    "icon": "eye.fill",
     "tintHex": "#32ADE6",
     "targetAppID": "max",
     "categoryID": "chams",
