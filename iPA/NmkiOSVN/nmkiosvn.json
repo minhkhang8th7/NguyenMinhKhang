@@ -61,9 +61,9 @@
   },
   {
     "id": "sup-feature-111",
-    "title": "Aim",
+    "title": "Aim Neck + Drag",
     "subtitle": "",
-    "content": "hihi.",
+    "content": "Hỗ trợ kéo nhẹ lên cổ và đỉnh đầu.",
     "icon": "5.circle.fill",
     "tintHex": "#007AFF",
     "targetAppID": "normal",
@@ -226,9 +226,9 @@
   },
   {
     "id": "lion-feature-101",
-    "title": "Aim",
+    "title": "Aim Neck + Drag",
     "subtitle": "",
-    "content": "hihi.",
+    "content": "Hỗ trợ kéo nhẹ lên cổ và đỉnh đầu.",
     "icon": "5.circle.fill",
     "tintHex": "#007AFF",
     "targetAppID": "max",
