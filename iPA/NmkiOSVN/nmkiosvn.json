@@ -59,6 +59,21 @@
     "projectID": "10000000-0000-0000-0000-000000000004",
     "isOn": false
   },
+    {
+    "id": "sup-feature-1",
+    "title": "Aim",
+    "subtitle": "",
+    "content": "hihi.",
+    "icon": "1.circle.fill",
+    "tintHex": "#007AFF",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "SecurityNmkiOSVN5",
+    "projectID": "10000000-0000-0000-0000-000000000001",
+    "isOn": false
+  },
   {
     "id": "sup-feature-5",
     "title": "Chams Súng Trắng",
@@ -207,6 +222,21 @@
     "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
     "replacementFilename": "SecurityNmkiOSVN4",
     "projectID": "20000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+      {
+    "id": "sup-feature-1",
+    "title": "Aim",
+    "subtitle": "",
+    "content": "hihi.",
+    "icon": "1.circle.fill",
+    "tintHex": "#007AFF",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "SecurityNmkiOSVN5",
+    "projectID": "10000000-0000-0000-0000-000000000001",
     "isOn": false
   },
   {
