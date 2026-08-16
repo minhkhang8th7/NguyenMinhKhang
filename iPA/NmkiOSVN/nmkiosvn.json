@@ -80,7 +80,7 @@
     "subtitle": "",
     "content": "Định vị súng nhìn xuyên tường.",
     "icon": "eye.fill",
-    "tintHex": "#FF2D55",
+    "tintHex": "#FFFFFF",
     "targetAppID": "normal",
     "categoryID": "chams",
     "bundleID": "com.dts.freefireth",
@@ -117,6 +117,21 @@
     "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.HPt9DZviTSXL9hpGW9QNOMigNLA~3D",
     "replacementFilename": "XanhLaFFTH",
     "projectID": "10000000-0000-0000-0000-000000000011",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-12",
+    "title": "Chams Súng Hồng",
+    "subtitle": "",
+    "content": "Định vị súng nhìn xuyên tường.",
+    "icon": "eye.fill",
+    "tintHex": "#FF2D55",
+    "targetAppID": "normal",
+    "categoryID": "chams",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.HPt9DZviTSXL9hpGW9QNOMigNLA~3D",
+    "replacementFilename": "HongFFTH",
+    "projectID": "10000000-0000-0000-0000-000000000012",
     "isOn": false
   },
   {
@@ -260,7 +275,7 @@
     "subtitle": "",
     "content": "Định vị súng nhìn xuyên tường.",
     "icon": "eye.fill",
-    "tintHex": "#FF2D55",
+    "tintHex": "#FFFFFF",
     "targetAppID": "max",
     "categoryID": "chams",
     "bundleID": "com.dts.freefiremax",
@@ -297,6 +312,21 @@
     "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D",
     "replacementFilename": "XanhLaFFM",
     "projectID": "20000000-0000-0000-0000-000000000011",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-12",
+    "title": "Chams Súng Hồng",
+    "subtitle": "",
+    "content": "Định vị súng nhìn xuyên tường.",
+    "icon": "eye.fill",
+    "tintHex": "#FF2D55",
+    "targetAppID": "max",
+    "categoryID": "chams",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D",
+    "replacementFilename": "HongFFM",
+    "projectID": "20000000-0000-0000-0000-000000000012",
     "isOn": false
   },
   {
