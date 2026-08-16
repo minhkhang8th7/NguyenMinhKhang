@@ -105,6 +105,21 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-11",
+    "title": "Chams Súng Xanh Lá",
+    "subtitle": "",
+    "content": "Định vị súng nhìn xuyên tường.",
+    "icon": "eye.fill",
+    "tintHex": "#34C759",
+    "targetAppID": "normal",
+    "categoryID": "chams",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.HPt9DZviTSXL9hpGW9QNOMigNLA~3D",
+    "replacementFilename": "SecurityMinhKhang5",
+    "projectID": "10000000-0000-0000-0000-000000000011",
+    "isOn": false
+  },
+  {
     "id": "sup-feature-7",
     "title": "Mod Skin V1",
     "subtitle": "",
@@ -267,6 +282,21 @@
     "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D",
     "replacementFilename": "SecurityMinhKhang4",
     "projectID": "20000000-0000-0000-0000-000000000006",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-11",
+    "title": "Chams Súng Xanh Lá",
+    "subtitle": "",
+    "content": "Định vị súng nhìn xuyên tường.",
+    "icon": "eye.fill",
+    "tintHex": "#34C759",
+    "targetAppID": "max",
+    "categoryID": "chams",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D",
+    "replacementFilename": "SecurityMinhKhang6",
+    "projectID": "20000000-0000-0000-0000-000000000011",
     "isOn": false
   },
   {
