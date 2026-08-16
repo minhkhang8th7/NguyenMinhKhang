@@ -225,11 +225,11 @@
     "isOn": false
   },
       {
-    "id": "sup-feature-1",
+    "id": "sup-feature-101",
     "title": "Aim",
     "subtitle": "",
     "content": "hihi.",
-    "icon": "1.circle.fill",
+    "icon": "5.circle.fill",
     "tintHex": "#007AFF",
     "targetAppID": "normal",
     "categoryID": "aim",
