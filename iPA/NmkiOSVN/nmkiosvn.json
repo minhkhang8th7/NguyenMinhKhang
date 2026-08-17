@@ -135,6 +135,21 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-13",
+    "title": "Hologram Quần Áo Xanh Dương",
+    "subtitle": "",
+    "content": "Hiệu ứng hologram trang phục.",
+    "icon": "eye.fill",
+    "tintHex": "#32ADE6",
+    "targetAppID": "normal",
+    "categoryID": "chams",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.HPt9DZviTSXL9hpGW9QNOMigNLA~3D",
+    "replacementFilename": "HoloFFTH",
+    "projectID": "10000000-0000-0000-0000-000000000013",
+    "isOn": false
+  },
+  {
     "id": "sup-feature-7",
     "title": "Mod Skin V1",
     "subtitle": "",
@@ -327,6 +342,21 @@
     "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D",
     "replacementFilename": "HongFFM",
     "projectID": "20000000-0000-0000-0000-000000000012",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-13",
+    "title": "Hologram Quần Áo Xanh Dương",
+    "subtitle": "",
+    "content": "Hiệu ứng hologram trang phục.",
+    "icon": "eye.fill",
+    "tintHex": "#32ADE6",
+    "targetAppID": "max",
+    "categoryID": "chams",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D",
+    "replacementFilename": "HoloFFM",
+    "projectID": "20000000-0000-0000-0000-000000000013",
     "isOn": false
   },
   {
