@@ -136,9 +136,9 @@
   },
   {
     "id": "sup-feature-13",
-    "title": "Hologram Quần Áo Xanh Dương",
+    "title": "Hologram Xanh Dương",
     "subtitle": "",
-    "content": "Hiệu ứng hologram trang phục.",
+    "content": "Hologram quần áo và súng.",
     "icon": "eye.fill",
     "tintHex": "#32ADE6",
     "targetAppID": "normal",
@@ -346,9 +346,9 @@
   },
   {
     "id": "lion-feature-13",
-    "title": "Hologram Quần Áo Xanh Dương",
+    "title": "Hologram Xanh Dương",
     "subtitle": "",
-    "content": "Hiệu ứng hologram trang phục.",
+    "content": "Hologram quần áo và súng.",
     "icon": "eye.fill",
     "tintHex": "#32ADE6",
     "targetAppID": "max",
