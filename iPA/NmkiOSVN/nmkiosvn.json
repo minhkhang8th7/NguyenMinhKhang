@@ -136,9 +136,9 @@
   },
   {
     "id": "sup-feature-13",
-    "title": "Hologram Xanh Dương",
+    "title": "Hologram Quần Áo Xanh Dương",
     "subtitle": "",
-    "content": "Hologram quần áo và súng.",
+    "content": "Hiệu ứng hologram trang phục.",
     "icon": "eye.fill",
     "tintHex": "#32ADE6",
     "targetAppID": "normal",
@@ -346,9 +346,9 @@
   },
   {
     "id": "lion-feature-13",
-    "title": "Hologram Xanh Dương",
+    "title": "Hologram Quần Áo Xanh Dương",
     "subtitle": "",
-    "content": "Hologram quần áo và súng.",
+    "content": "Hiệu ứng hologram trang phục.",
     "icon": "eye.fill",
     "tintHex": "#32ADE6",
     "targetAppID": "max",
@@ -447,6 +447,21 @@
     "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
     "replacementFilename": "V6-FFM",
     "projectID": "20000000-0000-0000-0000-000000000014",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-15",
+    "title": "Mod Skin V7",
+    "subtitle": "",
+    "content": "Mod nhân vật ignis thức tỉnh V7.",
+    "icon": "tshirt.fill",
+    "tintHex": "#FF2D55",
+    "targetAppID": "max",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
+    "replacementFilename": "V7-FFM",
+    "projectID": "20000000-0000-0000-0000-000000000015",
     "isOn": false
   }
 ]
