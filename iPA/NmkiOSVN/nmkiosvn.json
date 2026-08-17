@@ -61,7 +61,7 @@
   },
   {
     "id": "sup-feature-111",
-    "title": "Aim Neck x Drag",
+    "title": "Aim Neck + Drag",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ và đỉnh đầu.",
     "icon": "5.circle.fill",
@@ -256,7 +256,7 @@
   },
   {
     "id": "lion-feature-101",
-    "title": "Aim Neck x Drag",
+    "title": "Aim Neck + Drag",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ và đỉnh đầu.",
     "icon": "5.circle.fill",
@@ -387,6 +387,36 @@
     "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
     "replacementFilename": "V4-FFM",
     "projectID": "20000000-0000-0000-0000-000000000010",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-13",
+    "title": "Mod Skin V5",
+    "subtitle": "",
+    "content": "Mod nhân vật alok thức tỉnh V5.",
+    "icon": "tshirt.fill",
+    "tintHex": "#AF52DE",
+    "targetAppID": "max",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
+    "replacementFilename": "V5-FFM",
+    "projectID": "20000000-0000-0000-0000-000000000013",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-14",
+    "title": "Mod Skin V6",
+    "subtitle": "",
+    "content": "Mod nhân vật alok thức tỉnh V6.",
+    "icon": "tshirt.fill",
+    "tintHex": "#FF9500",
+    "targetAppID": "max",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
+    "replacementFilename": "V6-FFM",
+    "projectID": "20000000-0000-0000-0000-000000000014",
     "isOn": false
   }
 ]
