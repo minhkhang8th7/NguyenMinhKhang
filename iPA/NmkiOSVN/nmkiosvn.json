@@ -45,6 +45,36 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-4",
+    "title": "Magic",
+    "subtitle": "",
+    "content": "Đạn ma thuật.",
+    "icon": "4.circle.fill",
+    "tintHex": "#34C759",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "Magic",
+    "projectID": "10000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-111",
+    "title": "Aim Neck + Drag",
+    "subtitle": "",
+    "content": "Hỗ trợ kéo nhẹ lên cổ và đỉnh đầu.",
+    "icon": "5.circle.fill",
+    "tintHex": "#007AFF",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "AimDragNeck",
+    "projectID": "10000000-0000-0000-0000-000000000030",
+    "isOn": false
+  },
+  {
     "id": "sup-feature-7",
     "title": "Mod Skin V1",
     "subtitle": "",
@@ -147,6 +177,21 @@
     "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
     "replacementFilename": "AimNeck",
     "projectID": "20000000-0000-0000-0000-000000000003",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-4",
+    "title": "Magic",
+    "subtitle": "",
+    "content": "Đạn ma thuật.",
+    "icon": "4.circle.fill",
+    "tintHex": "#34C759",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "Magic",
+    "projectID": "20000000-0000-0000-0000-000000000004",
     "isOn": false
   },
   {
