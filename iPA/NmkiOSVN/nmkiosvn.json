@@ -45,6 +45,21 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-3-v2",
+    "title": "Aim Neck V2",
+    "subtitle": "",
+    "content": "Hỗ trợ kéo nhẹ lên cổ V2.",
+    "icon": "3.circle.fill",
+    "tintHex": "#FF9500",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "AimNeckV2",
+    "projectID": "10000000-0000-0000-0000-000000000032",
+    "isOn": false
+  },
+  {
     "id": "sup-feature-4",
     "title": "Magic",
     "subtitle": "",
@@ -61,7 +76,7 @@
   },
   {
     "id": "sup-feature-111",
-    "title": "Aim Neck + Drag",
+    "title": "Aim Neck x Drag",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ và đỉnh đầu.",
     "icon": "5.circle.fill",
@@ -132,21 +147,6 @@
     "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.HPt9DZviTSXL9hpGW9QNOMigNLA~3D",
     "replacementFilename": "HongFFTH",
     "projectID": "10000000-0000-0000-0000-000000000012",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-13",
-    "title": "Hologram Quần Áo Xanh Dương",
-    "subtitle": "",
-    "content": "Hiệu ứng hologram trang phục.",
-    "icon": "eye.fill",
-    "tintHex": "#32ADE6",
-    "targetAppID": "normal",
-    "categoryID": "chams",
-    "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.HPt9DZviTSXL9hpGW9QNOMigNLA~3D",
-    "replacementFilename": "HoloFFTH",
-    "projectID": "10000000-0000-0000-0000-000000000013",
     "isOn": false
   },
   {
@@ -255,6 +255,21 @@
     "isOn": false
   },
   {
+    "id": "lion-feature-3-v2",
+    "title": "Aim Neck V2",
+    "subtitle": "",
+    "content": "Hỗ trợ kéo nhẹ lên cổ V2.",
+    "icon": "3.circle.fill",
+    "tintHex": "#FF9500",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "AimNeckV2",
+    "projectID": "20000000-0000-0000-0000-000000000033",
+    "isOn": false
+  },
+  {
     "id": "lion-feature-4",
     "title": "Magic",
     "subtitle": "",
@@ -271,7 +286,7 @@
   },
   {
     "id": "lion-feature-101",
-    "title": "Aim Neck + Drag",
+    "title": "Aim Neck x Drag",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ và đỉnh đầu.",
     "icon": "5.circle.fill",
@@ -342,21 +357,6 @@
     "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D",
     "replacementFilename": "HongFFM",
     "projectID": "20000000-0000-0000-0000-000000000012",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-13",
-    "title": "Hologram Quần Áo Xanh Dương",
-    "subtitle": "",
-    "content": "Hiệu ứng hologram trang phục.",
-    "icon": "eye.fill",
-    "tintHex": "#32ADE6",
-    "targetAppID": "max",
-    "categoryID": "chams",
-    "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D",
-    "replacementFilename": "HoloFFM",
-    "projectID": "20000000-0000-0000-0000-000000000013",
     "isOn": false
   },
   {
