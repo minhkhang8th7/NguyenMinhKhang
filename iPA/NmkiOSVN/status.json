@@ -1,0 +1,15 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "title": "Đang bảo trì",
+    "message": "Hệ thống đang được bảo trì. Vui lòng quay lại sau."
+  },
+  "update": {
+    "enabled": false,
+    "version": "1.0.0",
+    "title": "Có phiên bản mới",
+    "message": "Đã có phiên bản mới. Vui lòng tải xuống.",
+    "downloadURL": "",
+    "force": false
+  }
+}
