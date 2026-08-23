@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Đang bảo trì",
     "message": "FFH4X Patch đang được bảo trì."
   },
