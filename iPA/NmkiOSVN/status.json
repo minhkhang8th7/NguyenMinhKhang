@@ -1,11 +1,11 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Đang bảo trì",
     "message": "FFH4X Patch đang được bảo trì."
   },
   "update": {
-    "enabled": true,
+    "enabled": false,
     "version": "1.3",
     "title": "Có phiên bản mới",
     "message": "Đã có phiên bản mới. Vui lòng tải xuống.",
