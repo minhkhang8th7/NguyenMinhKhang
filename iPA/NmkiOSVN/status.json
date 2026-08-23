@@ -10,6 +10,6 @@
     "title": "Có phiên bản mới",
     "message": "Đã có phiên bản mới. Vui lòng tải xuống.",
     "downloadURL": "https://t.me/nmkiosvn",
-    "force": false
+    "force": true
   }
 }
