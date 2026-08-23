@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Đang bảo trì",
     "message": "Hệ thống đang được bảo trì. Vui lòng quay lại sau."
   },
