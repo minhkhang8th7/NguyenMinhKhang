@@ -90,6 +90,21 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-13",
+    "title": "Aim Bụng",
+    "subtitle": "",
+    "content": "Máu đỏ vùng bụng.",
+    "icon": "dot.scope",
+    "tintHex": "#FF3B30",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "AimBung",
+    "projectID": "10000000-0000-0000-0000-000000000034",
+    "isOn": false
+  },
+  {
     "id": "sup-feature-5",
     "title": "Chams Súng Trắng",
     "subtitle": "",
@@ -210,6 +225,21 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-14",
+    "title": "Mod Skin V5",
+    "subtitle": "",
+    "content": "Mod nhân vật alok thức tỉnh V5.",
+    "icon": "tshirt.fill",
+    "tintHex": "#AF52DE",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D",
+    "replacementFilename": "V5-FFTH",
+    "projectID": "10000000-0000-0000-0000-000000000013",
+    "isOn": false
+  },
+  {
     "id": "lion-feature-1",
     "title": "Aim Body",
     "subtitle": "",
@@ -297,6 +327,21 @@
     "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
     "replacementFilename": "AimDragNeck",
     "projectID": "20000000-0000-0000-0000-000000000031",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-16",
+    "title": "Aim Bụng",
+    "subtitle": "",
+    "content": "Máu đỏ vùng bụng.",
+    "icon": "dot.scope",
+    "tintHex": "#FF3B30",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "AimBung",
+    "projectID": "20000000-0000-0000-0000-000000000034",
     "isOn": false
   },
   {
@@ -462,6 +507,21 @@
     "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_68.v7YKsGAGVyX3DEZrD2XjwYdekKY~3D",
     "replacementFilename": "V7-FFM",
     "projectID": "20000000-0000-0000-0000-000000000015",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-17",
+    "title": "Mod Skin V8",
+    "subtitle": "",
+    "content": "Mod nhân vật V8.",
+    "icon": "tshirt.fill",
+    "tintHex": "#FFD700",
+    "targetAppID": "max",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
+    "replacementFilename": "V8-FFM",
+    "projectID": "20000000-0000-0000-0000-000000000016",
     "isOn": false
   }
 ]
