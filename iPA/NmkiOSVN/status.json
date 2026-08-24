@@ -5,11 +5,11 @@
     "message": "FFH4X Patch đang được bảo trì."
   },
   "update": {
-    "enabled": false,
+    "enabled": true,
     "version": "1.3",
     "title": "Có phiên bản mới",
     "message": "Đã có phiên bản mới. Vui lòng tải xuống.",
-    "downloadURL": "https://t.me/nmkiosvn",
+    "downloadURL": "https://ipas.cc/19ztog",
     "force": true
   }
 }
