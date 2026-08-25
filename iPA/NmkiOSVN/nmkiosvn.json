@@ -508,20 +508,5 @@
     "replacementFilename": "V7-FFM",
     "projectID": "20000000-0000-0000-0000-000000000015",
     "isOn": false
-  },
-  {
-    "id": "lion-feature-17",
-    "title": "Mod Skin V8",
-    "subtitle": "",
-    "content": "Mod nhân vật V8.",
-    "icon": "tshirt.fill",
-    "tintHex": "#FFD700",
-    "targetAppID": "max",
-    "categoryID": "modSkin",
-    "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
-    "replacementFilename": "V8-FFM",
-    "projectID": "20000000-0000-0000-0000-000000000016",
-    "isOn": false
   }
 ]
