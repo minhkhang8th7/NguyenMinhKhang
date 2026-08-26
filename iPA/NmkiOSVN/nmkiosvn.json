@@ -240,6 +240,21 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-15",
+    "title": "M1887 Vương Quốc Cát",
+    "subtitle": "",
+    "content": "Mod lên skin phong xà",
+    "icon": "tshirt.fill",
+    "tintHex": "#FF9500",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_045.YxgNjAJb2BX16MOTQ0HdfD3VIIXc3D",
+    "replacementFilename": "M1887VuongQuocCat-FFTH",
+    "projectID": "10000000-0000-0000-0000-000000000015",
+    "isOn": false
+  },
+  {
     "id": "lion-feature-1",
     "title": "Aim Body",
     "subtitle": "",
