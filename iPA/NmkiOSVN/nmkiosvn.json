@@ -240,21 +240,6 @@
     "isOn": false
   },
   {
-    "id": "sup-feature-15",
-    "title": "M1887 Vương Quốc Cát",
-    "subtitle": "",
-    "content": "Mod lên skin phong xà",
-    "icon": "tshirt.fill",
-    "tintHex": "#FF9500",
-    "targetAppID": "normal",
-    "categoryID": "modSkin",
-    "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_045.YxgNjAJb2BX16MOTQ0HdfD3VIIXc3D",
-    "replacementFilename": "M1887VuongQuocCat-FFTH",
-    "projectID": "10000000-0000-0000-0000-000000000015",
-    "isOn": false
-  },
-  {
     "id": "lion-feature-1",
     "title": "Aim Body",
     "subtitle": "",
@@ -526,9 +511,9 @@
   },
   {
     "id": "lion-feature-17",
-    "title": "Mod MP40 & M1887",
+    "title": "Mod MP40 & M1887 LV7",
     "subtitle": "",
-    "content": "Mod Lên Skin Phong Xà",
+    "content": "Mod lên skin phong xà",
     "icon": "tshirt.fill",
     "tintHex": "#FF9500",
     "targetAppID": "max",
@@ -537,6 +522,21 @@
     "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.m4O82Fe4FyiZz0LVVfORM2BgAippU~3D",
     "replacementFilename": "Sung-FFM",
     "projectID": "20000000-0000-0000-0000-000000000016",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-18",
+    "title": "Mod M1887 Thánh Phồng",
+    "subtitle": "",
+    "content": "Mod lên skin phong xà",
+    "icon": "tshirt.fill",
+    "tintHex": "#FF9500",
+    "targetAppID": "max",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.m4O82Fe4FyiZz0LVVfORM2BgAippU~3D",
+    "replacementFilename": "SungV2-FFM",
+    "projectID": "20000000-0000-0000-0000-000000000018",
     "isOn": false
   }
 ]
