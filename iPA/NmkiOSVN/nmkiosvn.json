@@ -249,7 +249,7 @@
     "targetAppID": "normal",
     "categoryID": "chams",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/Library/Preferences/com.dts.freefireth.plist",
+    "relativePath": "Library/Preferences/com.dts.freefireth.plist",
     "replacementFilename": "FFTH",
     "projectID": "10000000-0000-0000-0000-000000000016",
     "isOn": false
@@ -564,7 +564,7 @@
     "targetAppID": "max",
     "categoryID": "chams",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/Library/Preferences/com.dts.freefiremax.plist",
+    "relativePath": "Library/Preferences/com.dts.freefiremax.plist",
     "replacementFilename": "FFM",
     "projectID": "20000000-0000-0000-0000-000000000019",
     "isOn": false
