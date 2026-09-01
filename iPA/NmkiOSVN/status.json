@@ -5,7 +5,7 @@
     "message": "FFH4X Patch đang được bảo trì. Gà quét nhé, tầm 12h trưa mai ad sẽ mở."
   },
   "update": {
-    "enabled": false,
+    "enabled": true,
     "version": "1.4",
     "title": "Có phiên bản mới",
     "message": "Đã có phiên bản mới. Vui lòng tải xuống.",
