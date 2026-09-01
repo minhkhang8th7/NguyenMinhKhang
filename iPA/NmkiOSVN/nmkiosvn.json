@@ -150,18 +150,18 @@
     "isOn": false
   },
     {
-    "id": "sup-feature-14",
-    "title": "Mod Skin V5",
+    "id": "sup-feature-25",
+    "title": "Mod Skin V6",
     "subtitle": "",
-    "content": "Mod nhân vật alok thức tỉnh V5.",
+    "content": "Mod nhân vật alok thức tỉnh V6.",
     "icon": "tshirt.fill",
-    "tintHex": "#AF52DE",
+    "tintHex": "#FF3B30",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
     "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q3D",
     "replacementFilename": "V6-FFTH",
-    "projectID": "10000000-0000-0000-0000-000000000013",
+    "projectID": "10000000-0000-0000-0000-000000000313",
     "isOn": false
   },
   {
