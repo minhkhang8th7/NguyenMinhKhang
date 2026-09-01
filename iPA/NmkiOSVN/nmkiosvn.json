@@ -31,7 +31,7 @@
   },
   {
     "id": "sup-feature-3",
-    "title": "Aim Neck",
+    "title": "Aim Cổ V1",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
     "icon": "dot.scope",
@@ -46,7 +46,7 @@
   },
   {
     "id": "sup-feature-3-v2",
-    "title": "Aim Neck V2",
+    "title": "Aim Cổ V2",
     "subtitle": "",
     "content": "Phiên bản nâng cấp của Aim Neck.",
     "icon": "dot.scope",
@@ -149,11 +149,26 @@
     "projectID": "10000000-0000-0000-0000-000000000013",
     "isOn": false
   },
+    {
+    "id": "sup-feature-14",
+    "title": "Mod Skin V5",
+    "subtitle": "",
+    "content": "Mod nhân vật alok thức tỉnh V5.",
+    "icon": "tshirt.fill",
+    "tintHex": "#AF52DE",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q3D",
+    "replacementFilename": "V6-FFTH",
+    "projectID": "10000000-0000-0000-0000-000000000013",
+    "isOn": false
+  },
   {
     "id": "sup-feature-17",
-    "title": "Mod MP40 & M1887 LV7",
+    "title": "Mod MP40 & M1887",
     "subtitle": "",
-    "content": "Mod MP40 & M1887 LV7",
+    "content": "Áp dụng lên skin phong xà",
     "icon": "tshirt.fill",
     "tintHex": "#FF9500",
     "targetAppID": "normal",
@@ -168,7 +183,7 @@
     "id": "sup-feature-18",
     "title": "Mod M1887 Thánh Phồng",
     "subtitle": "",
-    "content": "Mod M1887 Thánh Phồng",
+    "content": "Áp dụng lên skin phong xà.",
     "icon": "tshirt.fill",
     "tintHex": "#FF9500",
     "targetAppID": "normal",
@@ -211,7 +226,7 @@
   },
   {
     "id": "lion-feature-3",
-    "title": "Aim Neck",
+    "title": "Aim Cổ V1",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
     "icon": "dot.scope",
@@ -226,7 +241,7 @@
   },
   {
     "id": "lion-feature-3-v2",
-    "title": "Aim Neck V2",
+    "title": "Aim Cổ V2",
     "subtitle": "",
     "content": "Phiên bản nâng cấp của Aim Neck.",
     "icon": "dot.scope",
