@@ -60,6 +60,36 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-4",
+    "title": "Magic",
+    "subtitle": "",
+    "content": "Đạn ma thuật.",
+    "icon": "dot.scope",
+    "tintHex": "#34C759",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "Magic",
+    "projectID": "10000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-13",
+    "title": "Aim Bụng",
+    "subtitle": "",
+    "content": "Máu đỏ vùng bụng.",
+    "icon": "dot.scope",
+    "tintHex": "#FF3B30",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "AimBung",
+    "projectID": "10000000-0000-0000-0000-000000000034",
+    "isOn": false
+  },
+  {
     "id": "sup-feature-12",
     "title": "Chams Súng Hồng",
     "subtitle": "",
@@ -252,6 +282,36 @@
     "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
     "replacementFilename": "AimNeckV2",
     "projectID": "20000000-0000-0000-0000-000000000033",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-4",
+    "title": "Magic",
+    "subtitle": "",
+    "content": "Đạn ma thuật.",
+    "icon": "dot.scope",
+    "tintHex": "#34C759",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "Magic",
+    "projectID": "20000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-16",
+    "title": "Aim Bụng",
+    "subtitle": "",
+    "content": "Máu đỏ vùng bụng.",
+    "icon": "dot.scope",
+    "tintHex": "#FF3B30",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
+    "replacementFilename": "AimBung",
+    "projectID": "20000000-0000-0000-0000-000000000034",
     "isOn": false
   },
   {
