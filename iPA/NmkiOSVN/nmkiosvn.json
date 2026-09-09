@@ -93,7 +93,7 @@
     "id": "sup-feature-20",
     "title": "Aim Head",
     "subtitle": "",
-    "content": "Ghim đầu.",
+    "content": "Hỗ trợ kéo vào đầu.",
     "icon": "dot.scope",
     "tintHex": "#FF2D55",
     "targetAppID": "normal",
@@ -102,6 +102,21 @@
     "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.H5ak1JM1Eck~2FxRcJrEp~2FMzeuqmY~3D",
     "replacementFilename": "AimHead",
     "projectID": "10000000-0000-0000-0000-000000000020",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-21",
+    "title": "Antena",
+    "subtitle": "",
+    "content": "Định vị vị trí kẻ địch.",
+    "icon": "dot.scope",
+    "tintHex": "#FF2D55",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.H5ak1JM1Eck~2FxRcJrEp~2FMzeuqmY~3D",
+    "replacementFilename": "AntenaFFTH",
+    "projectID": "10000000-0000-0000-0000-000000000021",
     "isOn": false
   },
   {
@@ -327,6 +342,21 @@
     "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
     "replacementFilename": "AimBung",
     "projectID": "20000000-0000-0000-0000-000000000034",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-20",
+    "title": "Antena",
+    "subtitle": "",
+    "content": "Định vị vị trí kẻ địch.",
+    "icon": "dot.scope",
+    "tintHex": "#FF2D55",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.PENojQAQf9a1l6Dzjs0n1Z3rtVU~3D",
+    "replacementFilename": "AntenaFFM",
+    "projectID": "20000000-0000-0000-0000-000000000020",
     "isOn": false
   },
   {
