@@ -463,7 +463,7 @@
     "icon": "dot.scope",
     "tintHex": "#FF2D55",
     "targetAppID": "max",
-    "categoryID": "aim",
+    "categoryID": "chams",
     "bundleID": "com.dts.freefiremax",
     "relativePaths": [
       "Documents/Assembly-CSharp-patch.bytes",
