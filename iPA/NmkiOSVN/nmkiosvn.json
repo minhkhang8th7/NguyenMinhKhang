@@ -474,7 +474,8 @@
     "replacementFilenames": [
       "ESP-FFM",
       "config",
-      "configjs"
+      "configjs",
+      "plistffm"
     ],
     "projectID": "20000000-0000-0000-0000-000000000021",
     "isOn": false
