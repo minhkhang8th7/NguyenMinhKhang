@@ -468,7 +468,8 @@
     "relativePaths": [
       "Documents/Assembly-CSharp-patch.bytes",
       "Documents/config.bin",
-      "Documents/localConfig.json"
+      "Documents/localConfig.json",
+      "Library/Preferences/com.dts.freefiremax.plist"
     ],
     "replacementFilenames": [
       "ESP-FFM",
