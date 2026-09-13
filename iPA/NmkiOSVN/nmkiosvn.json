@@ -9,8 +9,12 @@
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimBody",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimBody"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000001",
     "isOn": false
   },
@@ -24,8 +28,12 @@
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimDrag",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimDrag"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000002",
     "isOn": false
   },
@@ -39,8 +47,12 @@
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimNeck",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimNeck"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000003",
     "isOn": false
   },
@@ -54,8 +66,12 @@
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimNeckV2",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimNeckV2"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000032",
     "isOn": false
   },
@@ -69,8 +85,12 @@
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "Magic",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "Magic"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000004",
     "isOn": false
   },
@@ -84,9 +104,32 @@
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimBung",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimBung"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000034",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-20",
+    "title": "Aim Head",
+    "subtitle": "",
+    "content": "Hỗ trợ kéo vào đầu.",
+    "icon": "dot.scope",
+    "tintHex": "#FF2D55",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.H5ak1JM1Eck~2FxRcJrEp~2FMzeuqmY~3D"
+    ],
+    "replacementFilenames": [
+      "AimHead"
+    ],
+    "projectID": "10000000-0000-0000-0000-000000000020",
     "isOn": false
   },
   {
@@ -99,8 +142,12 @@
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.H5ak1JM1Eck~2FxRcJrEp~2FMzeuqmY~3D",
-    "replacementFilename": "AntenaFFTH",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.H5ak1JM1Eck~2FxRcJrEp~2FMzeuqmY~3D"
+    ],
+    "replacementFilenames": [
+      "AntenaFFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000021",
     "isOn": false
   },
@@ -114,8 +161,12 @@
     "targetAppID": "normal",
     "categoryID": "chams",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.HPt9DZviTSXL9hpGW9QNOMigNLA~3D",
-    "replacementFilename": "HongFFTH",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/gameassetbundles/shaders.HPt9DZviTSXL9hpGW9QNOMigNLA~3D"
+    ],
+    "replacementFilenames": [
+      "HongFFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000012",
     "isOn": false
   },
@@ -129,8 +180,12 @@
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D",
-    "replacementFilename": "V1-FFTH",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D"
+    ],
+    "replacementFilenames": [
+      "V1-FFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000007",
     "isOn": false
   },
@@ -144,8 +199,12 @@
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D",
-    "replacementFilename": "V2-FFTH",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D"
+    ],
+    "replacementFilenames": [
+      "V2-FFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000008",
     "isOn": false
   },
@@ -159,8 +218,12 @@
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D",
-    "replacementFilename": "V3-FFTH",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D"
+    ],
+    "replacementFilenames": [
+      "V3-FFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000009",
     "isOn": false
   },
@@ -174,8 +237,12 @@
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D",
-    "replacementFilename": "V4-FFTH",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D"
+    ],
+    "replacementFilenames": [
+      "V4-FFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000010",
     "isOn": false
   },
@@ -189,8 +256,12 @@
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D",
-    "replacementFilename": "V5-FFTH",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D"
+    ],
+    "replacementFilenames": [
+      "V5-FFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000013",
     "isOn": false
   },
@@ -204,8 +275,12 @@
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D",
-    "replacementFilename": "V6-FFTH",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.DfUs7MzeaoXWJ4jWN8zRBmYoY7Q~3D"
+    ],
+    "replacementFilenames": [
+      "V6-FFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000313",
     "isOn": false
   },
@@ -219,8 +294,12 @@
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.UBNC2xrmtUWSE~2F4uq~2BgV8Y3owrc~3D",
-    "replacementFilename": "Sung-FFTH",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.UBNC2xrmtUWSE~2F4uq~2BgV8Y3owrc~3D"
+    ],
+    "replacementFilenames": [
+      "Sung-FFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000017",
     "isOn": false
   },
@@ -234,8 +313,12 @@
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
-    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.UBNC2xrmtUWSE~2F4uq~2BgV8Y3owrc~3D",
-    "replacementFilename": "SungV2-FFTH",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.UBNC2xrmtUWSE~2F4uq~2BgV8Y3owrc~3D"
+    ],
+    "replacementFilenames": [
+      "SungV2-FFTH"
+    ],
     "projectID": "10000000-0000-0000-0000-000000000018",
     "isOn": false
   },
@@ -249,8 +332,12 @@
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimBody",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimBody"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000001",
     "isOn": false
   },
@@ -264,8 +351,12 @@
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimDrag",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimDrag"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000002",
     "isOn": false
   },
@@ -279,8 +370,12 @@
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimNeck",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimNeck"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000003",
     "isOn": false
   },
@@ -294,8 +389,12 @@
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimNeckV2",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimNeckV2"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000033",
     "isOn": false
   },
@@ -309,8 +408,12 @@
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "Magic",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "Magic"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000004",
     "isOn": false
   },
@@ -324,8 +427,12 @@
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D",
-    "replacementFilename": "AimBung",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimBung"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000034",
     "isOn": false
   },
@@ -339,9 +446,36 @@
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.PENojQAQf9a1l6Dzjs0n1Z3rtVU~3D",
-    "replacementFilename": "AntenaFFM",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.PENojQAQf9a1l6Dzjs0n1Z3rtVU~3D"
+    ],
+    "replacementFilenames": [
+      "AntenaFFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000020",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-21",
+    "title": "ESP x Aimbot",
+    "subtitle": "",
+    "content": "Hỗ trợ ESP x Aimbot.",
+    "icon": "dot.scope",
+    "tintHex": "#FF2D55",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/config.bin",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "ESP-FFM",
+      "config",
+      "configjs"
+    ],
+    "projectID": "20000000-0000-0000-0000-000000000021",
     "isOn": false
   },
   {
@@ -354,8 +488,12 @@
     "targetAppID": "max",
     "categoryID": "chams",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D",
-    "replacementFilename": "HongFFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/gameassetbundles/shaders.RXqs706xmtWYhbN9TqDzP8LDRzk~3D"
+    ],
+    "replacementFilenames": [
+      "HongFFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000012",
     "isOn": false
   },
@@ -369,8 +507,12 @@
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
-    "replacementFilename": "V1-FFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D"
+    ],
+    "replacementFilenames": [
+      "V1-FFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000007",
     "isOn": false
   },
@@ -384,8 +526,12 @@
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
-    "replacementFilename": "V2-FFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D"
+    ],
+    "replacementFilenames": [
+      "V2-FFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000008",
     "isOn": false
   },
@@ -399,8 +545,12 @@
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
-    "replacementFilename": "V3-FFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D"
+    ],
+    "replacementFilenames": [
+      "V3-FFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000009",
     "isOn": false
   },
@@ -414,8 +564,12 @@
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
-    "replacementFilename": "V4-FFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D"
+    ],
+    "replacementFilenames": [
+      "V4-FFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000010",
     "isOn": false
   },
@@ -429,8 +583,12 @@
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
-    "replacementFilename": "V5-FFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D"
+    ],
+    "replacementFilenames": [
+      "V5-FFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000013",
     "isOn": false
   },
@@ -444,8 +602,12 @@
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D",
-    "replacementFilename": "V6-FFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.CoOEgYl5yYUMEbFNIb8L3onAO6o~3D"
+    ],
+    "replacementFilenames": [
+      "V6-FFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000014",
     "isOn": false
   },
@@ -459,8 +621,12 @@
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_68.v7YKsGAGVyX3DEZrD2XjwYdekKY~3D",
-    "replacementFilename": "V7-FFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_68.v7YKsGAGVyX3DEZrD2XjwYdekKY~3D"
+    ],
+    "replacementFilenames": [
+      "V7-FFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000015",
     "isOn": false
   },
@@ -474,8 +640,12 @@
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.m4O8~2Fe4FyiZz0LVVfORM~2BgAippU~3D",
-    "replacementFilename": "Sung-FFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.m4O8~2Fe4FyiZz0LVVfORM~2BgAippU~3D"
+    ],
+    "replacementFilenames": [
+      "Sung-FFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000016",
     "isOn": false
   },
@@ -489,8 +659,12 @@
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
-    "relativePath": "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.m4O8~2Fe4FyiZz0LVVfORM~2BgAippU~3D",
-    "replacementFilename": "SungV2-FFM",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/gameassetbundles/optionalab_weapon_015.m4O8~2Fe4FyiZz0LVVfORM~2BgAippU~3D"
+    ],
+    "replacementFilenames": [
+      "SungV2-FFM"
+    ],
     "projectID": "20000000-0000-0000-0000-000000000018",
     "isOn": false
   }
