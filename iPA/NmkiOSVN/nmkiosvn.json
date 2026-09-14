@@ -457,11 +457,11 @@
   },
   {
     "id": "lion-feature-21",
-    "title": "ESP x Aimbot",
+    "title": "AimLock x ESP Xanh Lá",
     "subtitle": "",
     "content": "",
     "icon": "dot.scope",
-    "tintHex": "#FF2D55",
+    "tintHex": "#34C759",
     "targetAppID": "max",
     "categoryID": "chams",
     "bundleID": "com.dts.freefiremax",
@@ -474,6 +474,27 @@
       "configjs"
     ],
     "projectID": "20000000-0000-0000-0000-000000000021",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-22",
+    "title": "Aimlock x ESP Đỏ",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#FF3B30",
+    "targetAppID": "max",
+    "categoryID": "chams",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "ESPDo-FFM",
+      "configjs"
+    ],
+    "projectID": "20000000-0000-0000-0000-000000000022",
     "isOn": false
   },
   {
