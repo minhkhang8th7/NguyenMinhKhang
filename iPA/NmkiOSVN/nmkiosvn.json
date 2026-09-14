@@ -459,7 +459,7 @@
     "id": "lion-feature-21",
     "title": "ESP x Aimbot",
     "subtitle": "",
-    "content": "Hỗ trợ ESP x Aimbot.",
+    "content": "",
     "icon": "dot.scope",
     "tintHex": "#FF2D55",
     "targetAppID": "max",
@@ -467,15 +467,11 @@
     "bundleID": "com.dts.freefiremax",
     "relativePaths": [
       "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/config.bin",
-      "Documents/localConfig.json",
-      "Library/Preferences/com.dts.freefiremax.plist"
+      "Documents/localConfig.json"
     ],
     "replacementFilenames": [
       "ESP-FFM",
-      "config",
-      "configjs",
-      "plistffm"
+      "configjs"
     ],
     "projectID": "20000000-0000-0000-0000-000000000021",
     "isOn": false
