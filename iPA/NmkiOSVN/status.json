@@ -6,7 +6,7 @@
   },
   "update": {
     "enabled": true,
-    "version": "1.6",
+    "version": "1.7",
     "title": "Có phiên bản mới",
     "message": "Đã có phiên bản mới. Vui lòng tải xuống.",
     "downloadURL": "https://ipas.cc/19ztog",
