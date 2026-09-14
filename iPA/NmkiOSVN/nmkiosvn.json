@@ -437,6 +437,27 @@
     "isOn": false
   },
   {
+    "id": "lion-feature-24",
+    "title": "Khôi Phục Gốc",
+    "subtitle": "",
+    "content": "Khôi phục gốc AimLock x ESP.",
+    "icon": "arrow.clockwise",
+    "tintHex": "#8E8E93",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "KhoiPhucGocESP",
+      "configjs"
+    ],
+    "projectID": "20000000-0000-0000-0000-000000000024",
+    "isOn": false
+  },
+  {
     "id": "lion-feature-21",
     "title": "AimLock x ESP Xanh Lá",
     "subtitle": "",
