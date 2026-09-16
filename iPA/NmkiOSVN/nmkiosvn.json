@@ -65,6 +65,26 @@
   },
   {
     "id": "sup-feature-4",
+    "title": "MENU 1.0",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#FF6B00",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
+    ],
+    "replacementFilenames": [
+      "menu"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-5",
     "title": "Aim Body",
     "subtitle": "",
     "content": "Xoá máu vàng.",
@@ -80,11 +100,11 @@
       "AimBody"
     ],
     "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000004",
+    "projectID": "10000000-0000-0000-0000-000000000005",
     "isOn": false
   },
   {
-    "id": "sup-feature-5",
+    "id": "sup-feature-6",
     "title": "Aim Drag",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
@@ -100,11 +120,11 @@
       "AimDrag"
     ],
     "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000005",
+    "projectID": "10000000-0000-0000-0000-000000000006",
     "isOn": false
   },
   {
-    "id": "sup-feature-6",
+    "id": "sup-feature-7",
     "title": "Aim Cổ",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
@@ -120,11 +140,11 @@
       "AimNeck"
     ],
     "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000006",
+    "projectID": "10000000-0000-0000-0000-000000000007",
     "isOn": false
   },
   {
-    "id": "sup-feature-7",
+    "id": "sup-feature-8",
     "title": "Magic",
     "subtitle": "",
     "content": "Đạn ma thuật.",
@@ -140,11 +160,11 @@
       "Magic"
     ],
     "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000007",
+    "projectID": "10000000-0000-0000-0000-000000000008",
     "isOn": false
   },
   {
-    "id": "sup-feature-8",
+    "id": "sup-feature-9",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -159,8 +179,8 @@
     "replacementFilenames": [
       "V1-FFTH"
     ],
-    "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000008",
+    "saveSetting": false,
+    "projectID": "10000000-0000-0000-0000-000000000009",
     "isOn": false
   },
   {
@@ -169,7 +189,7 @@
     "subtitle": "",
     "content": "",
     "icon": "dot.scope",
-    "tintHex": "#FF3B30",
+    "tintHex": "#E53935",
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
@@ -191,7 +211,7 @@
     "subtitle": "",
     "content": "",
     "icon": "dot.scope",
-    "tintHex": "#34C759",
+    "tintHex": "#43A047",
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
@@ -213,7 +233,7 @@
     "subtitle": "",
     "content": "",
     "icon": "dot.scope",
-    "tintHex": "#FF9500",
+    "tintHex": "#FB8C00",
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
@@ -229,6 +249,26 @@
   },
   {
     "id": "lion-feature-4",
+    "title": "MENU 1.0",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#D500F9",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
+    ],
+    "replacementFilenames": [
+      "menu"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-5",
     "title": "Aim Body",
     "subtitle": "",
     "content": "Xoá máu vàng.",
@@ -244,16 +284,16 @@
       "AimBody"
     ],
     "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000004",
+    "projectID": "20000000-0000-0000-0000-000000000005",
     "isOn": false
   },
   {
-    "id": "lion-feature-5",
+    "id": "lion-feature-6",
     "title": "Aim Drag",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
     "icon": "dot.scope",
-    "tintHex": "#AF52DE",
+    "tintHex": "#8E24AA",
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
@@ -264,11 +304,11 @@
       "AimDrag"
     ],
     "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000005",
+    "projectID": "20000000-0000-0000-0000-000000000006",
     "isOn": false
   },
   {
-    "id": "lion-feature-6",
+    "id": "lion-feature-7",
     "title": "Aim Cổ",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
@@ -284,16 +324,16 @@
       "AimNeck"
     ],
     "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000006",
+    "projectID": "20000000-0000-0000-0000-000000000007",
     "isOn": false
   },
   {
-    "id": "lion-feature-7",
+    "id": "lion-feature-8",
     "title": "Magic",
     "subtitle": "",
     "content": "Đạn ma thuật.",
     "icon": "dot.scope",
-    "tintHex": "#00C7BE",
+    "tintHex": "#00ACC1",
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
@@ -304,16 +344,16 @@
       "Magic"
     ],
     "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000007",
+    "projectID": "20000000-0000-0000-0000-000000000008",
     "isOn": false
   },
   {
-    "id": "lion-feature-8",
+    "id": "lion-feature-9",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
     "icon": "tshirt.fill",
-    "tintHex": "#5856D6",
+    "tintHex": "#3F51B5",
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
@@ -323,8 +363,8 @@
     "replacementFilenames": [
       "V1-FFM"
     ],
-    "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000008",
+    "saveSetting": false,
+    "projectID": "20000000-0000-0000-0000-000000000009",
     "isOn": false
   }
 ]
