@@ -1,1 +1,184 @@
-
+[
+  {
+    "id": "sup-feature-1",
+    "title": "Aim Body",
+    "subtitle": "",
+    "content": "Xoá máu vàng.",
+    "icon": "dot.scope",
+    "tintHex": "#007AFF",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimBody"
+    ],
+    "saveSetting": false,
+    "projectID": "10000000-0000-0000-0000-000000000001",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-2",
+    "title": "Aim Drag",
+    "subtitle": "",
+    "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
+    "icon": "dot.scope",
+    "tintHex": "#AF52DE",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimDrag"
+    ],
+    "saveSetting": false,
+    "projectID": "10000000-0000-0000-0000-000000000002",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-3",
+    "title": "Aim Cổ V1",
+    "subtitle": "",
+    "content": "Hỗ trợ kéo nhẹ lên cổ.",
+    "icon": "dot.scope",
+    "tintHex": "#FF9500",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimNeck"
+    ],
+    "saveSetting": false,
+    "projectID": "10000000-0000-0000-0000-000000000003",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-4",
+    "title": "Magic",
+    "subtitle": "",
+    "content": "Đạn ma thuật.",
+    "icon": "dot.scope",
+    "tintHex": "#34C759",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "Magic"
+    ],
+    "saveSetting": false,
+    "projectID": "10000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-1",
+    "title": "Aim Body",
+    "subtitle": "",
+    "content": "Xoá máu vàng.",
+    "icon": "dot.scope",
+    "tintHex": "#007AFF",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimBody"
+    ],
+    "saveSetting": false,
+    "projectID": "20000000-0000-0000-0000-000000000001",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-2",
+    "title": "Aim Drag",
+    "subtitle": "",
+    "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
+    "icon": "dot.scope",
+    "tintHex": "#AF52DE",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimDrag"
+    ],
+    "saveSetting": false,
+    "projectID": "20000000-0000-0000-0000-000000000002",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-3",
+    "title": "Aim Cổ V1",
+    "subtitle": "",
+    "content": "Hỗ trợ kéo nhẹ lên cổ.",
+    "icon": "dot.scope",
+    "tintHex": "#FF9500",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "AimNeck"
+    ],
+    "saveSetting": false,
+    "projectID": "20000000-0000-0000-0000-000000000003",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-4",
+    "title": "Magic",
+    "subtitle": "",
+    "content": "Đạn ma thuật.",
+    "icon": "dot.scope",
+    "tintHex": "#34C759",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+    ],
+    "replacementFilenames": [
+      "Magic"
+    ],
+    "saveSetting": false,
+    "projectID": "20000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-21",
+    "title": "AimLock x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#34C759",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "ESP-FFM",
+      "configjs"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000021",
+    "isOn": false
+  }
+]
