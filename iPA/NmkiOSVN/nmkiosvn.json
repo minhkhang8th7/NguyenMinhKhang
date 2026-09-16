@@ -32,7 +32,7 @@
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
       "AimBody"
@@ -52,7 +52,7 @@
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
       "AimDrag"
@@ -63,7 +63,7 @@
   },
   {
     "id": "sup-feature-4",
-    "title": "Aim Cổ V1",
+    "title": "Aim Cổ",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
     "icon": "dot.scope",
@@ -72,7 +72,7 @@
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
       "AimNeck"
@@ -92,13 +92,33 @@
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
       "Magic"
     ],
     "saveSetting": false,
     "projectID": "10000000-0000-0000-0000-000000000005",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-6",
+    "title": "Alok Thức Tỉnh V1",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V1.",
+    "icon": "tshirt.fill",
+    "tintHex": "#5856D6",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.PB9xjBkeW6coem1hSCiGvokg7O8~3D"
+    ],
+    "replacementFilenames": [
+      "V1-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000006",
     "isOn": false
   },
   {
@@ -134,7 +154,7 @@
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
       "AimBody"
@@ -154,7 +174,7 @@
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
       "AimDrag"
@@ -165,7 +185,7 @@
   },
   {
     "id": "lion-feature-4",
-    "title": "Aim Cổ V1",
+    "title": "Aim Cổ",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
     "icon": "dot.scope",
@@ -174,7 +194,7 @@
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
       "AimNeck"
@@ -189,18 +209,38 @@
     "subtitle": "",
     "content": "Đạn ma thuật.",
     "icon": "dot.scope",
-    "tintHex": "#5856D6",
+    "tintHex": "#A2845E",
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.CfnFf59sr1SbsqQ6JqTKsEusjKs~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
       "Magic"
     ],
     "saveSetting": false,
     "projectID": "20000000-0000-0000-0000-000000000005",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-6",
+    "title": "Alok Thức Tỉnh V1",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V1.",
+    "icon": "tshirt.fill",
+    "tintHex": "#E55B3C",
+    "targetAppID": "max",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V1-FFM"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000006",
     "isOn": false
   }
 ]
