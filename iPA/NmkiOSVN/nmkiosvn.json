@@ -23,7 +23,7 @@
   },
   {
     "id": "sup-feature-2",
-    "title": "AimLock x ESP V2",
+    "title": "AimFOV x ESP",
     "subtitle": "",
     "content": "",
     "icon": "dot.scope",
@@ -47,7 +47,7 @@
     "id": "sup-feature-3",
     "title": "AimLock",
     "subtitle": "",
-    "content": "Khóa mục tiêu.",
+    "content": "",
     "icon": "dot.scope",
     "tintHex": "#FF3B30",
     "targetAppID": "normal",
@@ -105,7 +105,7 @@
   },
   {
     "id": "sup-feature-6",
-    "title": "Aim Cổ V1",
+    "title": "Aim Cổ",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
     "icon": "dot.scope",
@@ -159,7 +159,7 @@
     "replacementFilenames": [
       "V1-FFTH"
     ],
-    "saveSetting": false,
+    "saveSetting": true,
     "projectID": "10000000-0000-0000-0000-000000000008",
     "isOn": false
   },
@@ -187,7 +187,7 @@
   },
   {
     "id": "lion-feature-2",
-    "title": "AimLock x ESP V2",
+    "title": "AimFOV x ESP",
     "subtitle": "",
     "content": "",
     "icon": "dot.scope",
@@ -211,7 +211,7 @@
     "id": "lion-feature-3",
     "title": "AimLock",
     "subtitle": "",
-    "content": "Khóa mục tiêu.",
+    "content": "",
     "icon": "dot.scope",
     "tintHex": "#FF9500",
     "targetAppID": "max",
@@ -269,7 +269,7 @@
   },
   {
     "id": "lion-feature-6",
-    "title": "Aim Cổ V1",
+    "title": "Aim Cổ",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
     "icon": "dot.scope",
@@ -323,7 +323,7 @@
     "replacementFilenames": [
       "V1-FFM"
     ],
-    "saveSetting": false,
+    "saveSetting": true,
     "projectID": "20000000-0000-0000-0000-000000000008",
     "isOn": false
   }
