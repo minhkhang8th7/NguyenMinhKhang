@@ -1,5 +1,49 @@
 [
   {
+    "id": "sup-feature-21",
+    "title": "AimLock x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#34C759",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "esp",
+      "configjs"
+    ],
+    "saveSetting": false,
+    "projectID": "10000000-0000-0000-0000-000000000021",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-21",
+    "title": "AimLock x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#34C759",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "esp",
+      "configjs"
+    ],
+    "saveSetting": false,
+    "projectID": "20000000-0000-0000-0000-000000000021",
+    "isOn": false
+  },
+  {
     "id": "sup-feature-1",
     "title": "Aim Body",
     "subtitle": "",
@@ -157,28 +201,6 @@
     ],
     "saveSetting": false,
     "projectID": "20000000-0000-0000-0000-000000000004",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-21",
-    "title": "AimLock x ESP",
-    "subtitle": "",
-    "content": "",
-    "icon": "dot.scope",
-    "tintHex": "#34C759",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "ESP-FFM",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000021",
     "isOn": false
   }
 ]
