@@ -289,7 +289,7 @@
       "menu",
       "configjs"
     ],
-    "saveSetting": false,
+    "saveSetting": true,
     "projectID": "20000000-0000-0000-0000-000000000004",
     "isOn": false
   },
