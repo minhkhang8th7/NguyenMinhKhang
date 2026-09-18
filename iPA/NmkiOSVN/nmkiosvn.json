@@ -109,6 +109,28 @@
   },
   {
     "id": "sup-feature-6",
+    "title": "MENU 3.0",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#E91E63",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "menu4",
+      "configjs"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000006",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-7",
     "title": "Menu Cân Check",
     "subtitle": "",
     "content": "",
@@ -126,11 +148,11 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000006",
+    "projectID": "10000000-0000-0000-0000-000000000007",
     "isOn": false
   },
   {
-    "id": "sup-feature-7",
+    "id": "sup-feature-8",
     "title": "Aim Body ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Xoá máu vàng.",
@@ -146,11 +168,11 @@
       "AimBody"
     ],
     "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000007",
+    "projectID": "10000000-0000-0000-0000-000000000008",
     "isOn": false
   },
   {
-    "id": "sup-feature-8",
+    "id": "sup-feature-9",
     "title": "Aim Drag ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
@@ -166,11 +188,11 @@
       "AimDrag"
     ],
     "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000008",
+    "projectID": "10000000-0000-0000-0000-000000000009",
     "isOn": false
   },
   {
-    "id": "sup-feature-9",
+    "id": "sup-feature-10",
     "title": "Aim Cổ ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
@@ -186,11 +208,11 @@
       "AimNeck"
     ],
     "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000009",
+    "projectID": "10000000-0000-0000-0000-000000000010",
     "isOn": false
   },
   {
-    "id": "sup-feature-10",
+    "id": "sup-feature-11",
     "title": "Magic ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Đạn ma thuật.",
@@ -206,11 +228,11 @@
       "Magic"
     ],
     "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000010",
+    "projectID": "10000000-0000-0000-0000-000000000011",
     "isOn": false
   },
   {
-    "id": "sup-feature-11",
+    "id": "sup-feature-12",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -226,7 +248,7 @@
       "V1-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000011",
+    "projectID": "10000000-0000-0000-0000-000000000012",
     "isOn": false
   },
   {
@@ -339,6 +361,28 @@
   },
   {
     "id": "lion-feature-6",
+    "title": "MENU 3.0",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#7C4DFF",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "menu4",
+      "configjs"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000006",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-7",
     "title": "Menu Cân Check",
     "subtitle": "",
     "content": "",
@@ -356,11 +400,11 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000006",
+    "projectID": "20000000-0000-0000-0000-000000000007",
     "isOn": false
   },
   {
-    "id": "lion-feature-7",
+    "id": "lion-feature-8",
     "title": "Aim Body ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Xoá máu vàng.",
@@ -376,11 +420,11 @@
       "AimBody"
     ],
     "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000007",
+    "projectID": "20000000-0000-0000-0000-000000000008",
     "isOn": false
   },
   {
-    "id": "lion-feature-8",
+    "id": "lion-feature-9",
     "title": "Aim Drag ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
@@ -396,11 +440,11 @@
       "AimDrag"
     ],
     "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000008",
+    "projectID": "20000000-0000-0000-0000-000000000009",
     "isOn": false
   },
   {
-    "id": "lion-feature-9",
+    "id": "lion-feature-10",
     "title": "Aim Cổ ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
@@ -416,11 +460,11 @@
       "AimNeck"
     ],
     "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000009",
+    "projectID": "20000000-0000-0000-0000-000000000010",
     "isOn": false
   },
   {
-    "id": "lion-feature-10",
+    "id": "lion-feature-11",
     "title": "Magic ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Đạn ma thuật.",
@@ -436,11 +480,11 @@
       "Magic"
     ],
     "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000010",
+    "projectID": "20000000-0000-0000-0000-000000000011",
     "isOn": false
   },
   {
-    "id": "lion-feature-11",
+    "id": "lion-feature-12",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -456,7 +500,7 @@
       "V1-FFM"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000011",
+    "projectID": "20000000-0000-0000-0000-000000000012",
     "isOn": false
   }
 ]
