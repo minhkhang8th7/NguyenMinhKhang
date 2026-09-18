@@ -131,7 +131,7 @@
   },
   {
     "id": "sup-feature-7",
-    "title": "Aim Body",
+    "title": "Aim Body ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Xoá máu vàng.",
     "icon": "dot.scope",
@@ -151,7 +151,7 @@
   },
   {
     "id": "sup-feature-8",
-    "title": "Aim Drag",
+    "title": "Aim Drag ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
     "icon": "dot.scope",
@@ -171,7 +171,7 @@
   },
   {
     "id": "sup-feature-9",
-    "title": "Aim Cổ V1",
+    "title": "Aim Cổ ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
     "icon": "dot.scope",
@@ -191,7 +191,7 @@
   },
   {
     "id": "sup-feature-10",
-    "title": "Magic",
+    "title": "Magic ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Đạn ma thuật.",
     "icon": "dot.scope",
@@ -361,7 +361,7 @@
   },
   {
     "id": "lion-feature-7",
-    "title": "Aim Body",
+    "title": "Aim Body ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Xoá máu vàng.",
     "icon": "dot.scope",
@@ -381,7 +381,7 @@
   },
   {
     "id": "lion-feature-8",
-    "title": "Aim Drag",
+    "title": "Aim Drag ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
     "icon": "dot.scope",
@@ -401,7 +401,7 @@
   },
   {
     "id": "lion-feature-9",
-    "title": "Aim Cổ V1",
+    "title": "Aim Cổ ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Hỗ trợ kéo nhẹ lên cổ.",
     "icon": "dot.scope",
@@ -421,7 +421,7 @@
   },
   {
     "id": "lion-feature-10",
-    "title": "Magic",
+    "title": "Magic ( Kèm Fix Ban )",
     "subtitle": "",
     "content": "Đạn ma thuật.",
     "icon": "dot.scope",
