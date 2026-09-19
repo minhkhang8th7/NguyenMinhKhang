@@ -153,11 +153,11 @@
   },
   {
     "id": "sup-feature-8",
-    "title": "Aim Body ( Kèm Fix Ban )",
+    "title": "Aim Cân Check",
     "subtitle": "",
-    "content": "Xoá máu vàng.",
+    "content": "",
     "icon": "dot.scope",
-    "tintHex": "#007AFF",
+    "tintHex": "#FF2D55",
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
@@ -165,7 +165,7 @@
       "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
-      "AimBody"
+      "r8"
     ],
     "saveSetting": false,
     "projectID": "10000000-0000-0000-0000-000000000008",
@@ -173,66 +173,6 @@
   },
   {
     "id": "sup-feature-9",
-    "title": "Aim Drag ( Kèm Fix Ban )",
-    "subtitle": "",
-    "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
-    "icon": "dot.scope",
-    "tintHex": "#AF52DE",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "AimDrag"
-    ],
-    "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000009",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-10",
-    "title": "Aim Cổ ( Kèm Fix Ban )",
-    "subtitle": "",
-    "content": "Hỗ trợ kéo nhẹ lên cổ.",
-    "icon": "dot.scope",
-    "tintHex": "#FF9500",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "AimNeck"
-    ],
-    "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000010",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-11",
-    "title": "Magic ( Kèm Fix Ban )",
-    "subtitle": "",
-    "content": "Đạn ma thuật.",
-    "icon": "dot.scope",
-    "tintHex": "#00C7BE",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "Magic"
-    ],
-    "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000011",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-12",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -248,7 +188,7 @@
       "V1-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000012",
+    "projectID": "10000000-0000-0000-0000-000000000009",
     "isOn": false
   },
   {
@@ -405,11 +345,11 @@
   },
   {
     "id": "lion-feature-8",
-    "title": "Aim Body ( Kèm Fix Ban )",
+    "title": "Aim Cân Check",
     "subtitle": "",
-    "content": "Xoá máu vàng.",
+    "content": "",
     "icon": "dot.scope",
-    "tintHex": "#5AC8FA",
+    "tintHex": "#FF3B30",
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
@@ -417,7 +357,7 @@
       "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
     ],
     "replacementFilenames": [
-      "AimBody"
+      "r8"
     ],
     "saveSetting": false,
     "projectID": "20000000-0000-0000-0000-000000000008",
@@ -425,66 +365,6 @@
   },
   {
     "id": "lion-feature-9",
-    "title": "Aim Drag ( Kèm Fix Ban )",
-    "subtitle": "",
-    "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
-    "icon": "dot.scope",
-    "tintHex": "#8E24AA",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "AimDrag"
-    ],
-    "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000009",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-10",
-    "title": "Aim Cổ ( Kèm Fix Ban )",
-    "subtitle": "",
-    "content": "Hỗ trợ kéo nhẹ lên cổ.",
-    "icon": "dot.scope",
-    "tintHex": "#FFCC00",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "AimNeck"
-    ],
-    "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000010",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-11",
-    "title": "Magic ( Kèm Fix Ban )",
-    "subtitle": "",
-    "content": "Đạn ma thuật.",
-    "icon": "dot.scope",
-    "tintHex": "#00ACC1",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "Magic"
-    ],
-    "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000011",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-12",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -500,7 +380,7 @@
       "V1-FFM"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000012",
+    "projectID": "20000000-0000-0000-0000-000000000009",
     "isOn": false
   }
 ]
