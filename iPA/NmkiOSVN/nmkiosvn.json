@@ -194,6 +194,46 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-10",
+    "title": "Alok Thức Tỉnh V2",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V2.",
+    "icon": "tshirt.fill",
+    "tintHex": "#AF52DE",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V2-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000010",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-11",
+    "title": "Alok Thức Tỉnh V3",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V3.",
+    "icon": "tshirt.fill",
+    "tintHex": "#FF2D55",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V3-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000011",
+    "isOn": false
+  },
+  {
     "id": "lion-feature-1",
     "title": "AimLock x ESP",
     "subtitle": "",
