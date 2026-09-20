@@ -131,6 +131,28 @@
   },
   {
     "id": "sup-feature-7",
+    "title": "MENU 4.0",
+    "subtitle": "",
+    "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
+    "icon": "dot.scope",
+    "tintHex": "#00BCD4",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "menu5",
+      "configjs"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000007",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-8",
     "title": "Menu Cân Check",
     "subtitle": "",
     "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
@@ -148,16 +170,16 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000007",
+    "projectID": "10000000-0000-0000-0000-000000000008",
     "isOn": false
   },
   {
-    "id": "sup-feature-8",
+    "id": "sup-feature-9",
     "title": "Aim Cân Check",
     "subtitle": "",
     "content": "",
     "icon": "dot.scope",
-    "tintHex": "#FF2D55",
+    "tintHex": "#FF9800",
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
@@ -170,11 +192,11 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000008",
+    "projectID": "10000000-0000-0000-0000-000000000009",
     "isOn": false
   },
   {
-    "id": "sup-feature-9",
+    "id": "sup-feature-10",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -190,11 +212,11 @@
       "V1-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000009",
+    "projectID": "10000000-0000-0000-0000-000000000010",
     "isOn": false
   },
   {
-    "id": "sup-feature-10",
+    "id": "sup-feature-11",
     "title": "Alok Thức Tỉnh V2",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V2.",
@@ -210,16 +232,16 @@
       "V2-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000010",
+    "projectID": "10000000-0000-0000-0000-000000000011",
     "isOn": false
   },
   {
-    "id": "sup-feature-11",
+    "id": "sup-feature-12",
     "title": "Alok Thức Tỉnh V3",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V3.",
     "icon": "tshirt.fill",
-    "tintHex": "#FF2D55",
+    "tintHex": "#FF1744",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -230,7 +252,7 @@
       "V3-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000011",
+    "projectID": "10000000-0000-0000-0000-000000000012",
     "isOn": false
   },
   {
@@ -365,6 +387,28 @@
   },
   {
     "id": "lion-feature-7",
+    "title": "MENU 4.0",
+    "subtitle": "",
+    "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
+    "icon": "dot.scope",
+    "tintHex": "#00BCD4",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "menu5",
+      "configjs"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000007",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-8",
     "title": "Menu Cân Check",
     "subtitle": "",
     "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
@@ -382,11 +426,11 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000007",
+    "projectID": "20000000-0000-0000-0000-000000000008",
     "isOn": false
   },
   {
-    "id": "lion-feature-8",
+    "id": "lion-feature-9",
     "title": "Aim Cân Check",
     "subtitle": "",
     "content": "",
@@ -404,11 +448,11 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000008",
+    "projectID": "20000000-0000-0000-0000-000000000009",
     "isOn": false
   },
   {
-    "id": "lion-feature-9",
+    "id": "lion-feature-10",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -424,7 +468,7 @@
       "V1-FFM"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000009",
+    "projectID": "20000000-0000-0000-0000-000000000010",
     "isOn": false
   }
 ]
