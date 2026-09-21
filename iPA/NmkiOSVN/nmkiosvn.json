@@ -1,136 +1,6 @@
 [
   {
     "id": "sup-feature-1",
-    "title": "AimLock x ESP",
-    "subtitle": "",
-    "content": "",
-    "icon": "dot.scope",
-    "tintHex": "#34C759",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "esp",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000001",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-2",
-    "title": "AimFOV x ESP",
-    "subtitle": "",
-    "content": "",
-    "icon": "dot.scope",
-    "tintHex": "#FF2D55",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "espv2",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000002",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-3",
-    "title": "AimLock",
-    "subtitle": "",
-    "content": "",
-    "icon": "dot.scope",
-    "tintHex": "#FF3B30",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "aimlock"
-    ],
-    "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000003",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-4",
-    "title": "MENU 1.0",
-    "subtitle": "",
-    "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
-    "icon": "dot.scope",
-    "tintHex": "#FF6B00",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "menu",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000004",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-5",
-    "title": "MENU 2.0",
-    "subtitle": "",
-    "content": "",
-    "icon": "dot.scope",
-    "tintHex": "#D500F9",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "menu3",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000005",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-6",
-    "title": "MENU 3.0",
-    "subtitle": "",
-    "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
-    "icon": "dot.scope",
-    "tintHex": "#E91E63",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "menu4",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000006",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-7",
     "title": "MENU 4.0",
     "subtitle": "",
     "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
@@ -148,11 +18,11 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000007",
+    "projectID": "10000000-0000-0000-0000-000000000001",
     "isOn": false
   },
   {
-    "id": "sup-feature-8",
+    "id": "sup-feature-2",
     "title": "Menu Cân Check",
     "subtitle": "",
     "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
@@ -170,16 +40,16 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000008",
+    "projectID": "10000000-0000-0000-0000-000000000002",
     "isOn": false
   },
   {
-    "id": "sup-feature-9",
-    "title": "Aim Cân Check",
+    "id": "sup-feature-3",
+    "title": "AimLock x ESP",
     "subtitle": "",
     "content": "",
     "icon": "dot.scope",
-    "tintHex": "#FF9800",
+    "tintHex": "#34C759",
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
@@ -188,15 +58,57 @@
       "Documents/localConfig.json"
     ],
     "replacementFilenames": [
-      "r8",
+      "esp",
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000009",
+    "projectID": "10000000-0000-0000-0000-000000000003",
     "isOn": false
   },
   {
-    "id": "sup-feature-10",
+    "id": "sup-feature-4",
+    "title": "AimFOV x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#FF2D55",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "espv2",
+      "configjs"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-5",
+    "title": "AimLock",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#FF3B30",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
+    ],
+    "replacementFilenames": [
+      "aimlock"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000005",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-6",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -212,11 +124,11 @@
       "V1-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000010",
+    "projectID": "10000000-0000-0000-0000-000000000006",
     "isOn": false
   },
   {
-    "id": "sup-feature-11",
+    "id": "sup-feature-7",
     "title": "Alok Thức Tỉnh V2",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V2.",
@@ -232,11 +144,11 @@
       "V2-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000011",
+    "projectID": "10000000-0000-0000-0000-000000000007",
     "isOn": false
   },
   {
-    "id": "sup-feature-12",
+    "id": "sup-feature-8",
     "title": "Alok Thức Tỉnh V3",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V3.",
@@ -252,141 +164,11 @@
       "V3-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000012",
+    "projectID": "10000000-0000-0000-0000-000000000008",
     "isOn": false
   },
   {
     "id": "lion-feature-1",
-    "title": "AimLock x ESP",
-    "subtitle": "",
-    "content": "",
-    "icon": "dot.scope",
-    "tintHex": "#E53935",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "esp",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000001",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-2",
-    "title": "AimFOV x ESP",
-    "subtitle": "",
-    "content": "",
-    "icon": "dot.scope",
-    "tintHex": "#43A047",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "espv2",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000002",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-3",
-    "title": "AimLock",
-    "subtitle": "",
-    "content": "",
-    "icon": "dot.scope",
-    "tintHex": "#FB8C00",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "aimlock"
-    ],
-    "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000003",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-4",
-    "title": "MENU 1.0",
-    "subtitle": "",
-    "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
-    "icon": "dot.scope",
-    "tintHex": "#D500F9",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "menu",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000004",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-5",
-    "title": "MENU 2.0",
-    "subtitle": "",
-    "content": "",
-    "icon": "dot.scope",
-    "tintHex": "#FF4081",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "menu3",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000005",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-6",
-    "title": "MENU 3.0",
-    "subtitle": "",
-    "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
-    "icon": "dot.scope",
-    "tintHex": "#7C4DFF",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/Assembly-CSharp-patch.bytes",
-      "Documents/localConfig.json"
-    ],
-    "replacementFilenames": [
-      "menu4",
-      "configjs"
-    ],
-    "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000006",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-7",
     "title": "MENU 4.0",
     "subtitle": "",
     "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
@@ -404,11 +186,11 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000007",
+    "projectID": "20000000-0000-0000-0000-000000000001",
     "isOn": false
   },
   {
-    "id": "lion-feature-8",
+    "id": "lion-feature-2",
     "title": "Menu Cân Check",
     "subtitle": "",
     "content": "Chạm 4 Ngón Tay Vào Màn Hình 2 Lần Bật",
@@ -426,16 +208,16 @@
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000008",
+    "projectID": "20000000-0000-0000-0000-000000000002",
     "isOn": false
   },
   {
-    "id": "lion-feature-9",
-    "title": "Aim Cân Check",
+    "id": "lion-feature-3",
+    "title": "AimLock x ESP",
     "subtitle": "",
     "content": "",
     "icon": "dot.scope",
-    "tintHex": "#FF3B30",
+    "tintHex": "#E53935",
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
@@ -444,15 +226,57 @@
       "Documents/localConfig.json"
     ],
     "replacementFilenames": [
-      "r8",
+      "esp",
       "configjs"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000009",
+    "projectID": "20000000-0000-0000-0000-000000000003",
     "isOn": false
   },
   {
-    "id": "lion-feature-10",
+    "id": "lion-feature-4",
+    "title": "AimFOV x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#43A047",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "espv2",
+      "configjs"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-5",
+    "title": "AimLock",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#FB8C00",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
+    ],
+    "replacementFilenames": [
+      "aimlock"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000005",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-6",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -468,7 +292,7 @@
       "V1-FFM"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000010",
+    "projectID": "20000000-0000-0000-0000-000000000006",
     "isOn": false
   }
 ]
