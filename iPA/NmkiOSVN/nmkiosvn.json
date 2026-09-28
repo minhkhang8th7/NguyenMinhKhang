@@ -262,6 +262,26 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-14",
+    "title": "Alok Thức Tỉnh V12",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V12.",
+    "icon": "tshirt.fill",
+    "tintHex": "#8BC34A",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V12-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000014",
+    "isOn": false
+  },
+  {
     "id": "lion-feature-1",
     "title": "Menu VIP V1",
     "subtitle": "",
