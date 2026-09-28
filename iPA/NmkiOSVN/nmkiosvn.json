@@ -162,5 +162,25 @@
     "saveSetting": true,
     "projectID": "20000000-0000-0000-0000-000000000003",
     "isOn": false
+  },
+  {
+    "id": "lion-feature-4",
+    "title": "Alok Thức Tỉnh V2",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V2.",
+    "icon": "tshirt.fill",
+    "tintHex": "#AF52DE",
+    "targetAppID": "max",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.PB9xjBkeW6coem1hSCiGvokg7O8~3D"
+    ],
+    "replacementFilenames": [
+      "V2-FFM"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000004",
+    "isOn": false
   }
 ]
