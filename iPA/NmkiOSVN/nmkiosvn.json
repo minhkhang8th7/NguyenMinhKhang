@@ -102,6 +102,166 @@
     "isOn": false
   },
   {
+    "id": "sup-feature-6",
+    "title": "Alok Thức Tỉnh V4",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V4.",
+    "icon": "tshirt.fill",
+    "tintHex": "#E91E63",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V4-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000006",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-7",
+    "title": "Alok Thức Tỉnh V5",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V5.",
+    "icon": "tshirt.fill",
+    "tintHex": "#9C27B0",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V5-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000007",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-8",
+    "title": "Alok Thức Tỉnh V6",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V6.",
+    "icon": "tshirt.fill",
+    "tintHex": "#673AB7",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V6-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000008",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-9",
+    "title": "Alok Thức Tỉnh V7",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V7.",
+    "icon": "tshirt.fill",
+    "tintHex": "#3F51B5",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V7-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000009",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-10",
+    "title": "Alok Thức Tỉnh V8",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V8.",
+    "icon": "tshirt.fill",
+    "tintHex": "#2196F3",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V8-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000010",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-11",
+    "title": "Alok Thức Tỉnh V9",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V9.",
+    "icon": "tshirt.fill",
+    "tintHex": "#00BCD4",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V9-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000011",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-12",
+    "title": "Alok Thức Tỉnh V10",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V10.",
+    "icon": "tshirt.fill",
+    "tintHex": "#009688",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V10-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000012",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-13",
+    "title": "Alok Thức Tỉnh V11",
+    "subtitle": "",
+    "content": "Mod nhân vật Alok Thức Tỉnh V11.",
+    "icon": "tshirt.fill",
+    "tintHex": "#4CAF50",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
+    ],
+    "replacementFilenames": [
+      "V11-FFTH"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000013",
+    "isOn": false
+  },
+  {
     "id": "lion-feature-1",
     "title": "Menu VIP V1",
     "subtitle": "",
