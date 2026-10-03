@@ -1,41 +1,35 @@
 {
-  "bundleID": "com.dts.freefireth",
+  "version": 1,
+  "name": "NMKIOSVN Remote Patch",
+  "enabled": true,
 
-  "relativePaths": [
-    "Documents/Assembly-CSharp-patch.bytes",
-    "Documents/localConfig.json"
-  ],
+  "files": [
+    {
+      "bundleID": "com.dts.freefireth",
 
-  "replacementFilenames": [
-    "file1",
-    "file2"
-  ],
+      "relativePaths": [
+        "Documents/Assembly-CSharp-patch.bytes",
+        "Documents/localConfig.json"
+      ],
 
-  "AimEnabled": true,
-  "AimTarget": 2,
-  "HeadshotRate": 0,
-  "FovSize": 65,
+      "replacementFilenames": [
+        "file1",
+        "file2"
+      ]
+    },
 
-  "EspMaster": true,
-  "EspBox": true,
-  "EspLine": true,
-  "EspHealth": true,
-  "EspName": true,
-  "EspDistance": true,
-  "EspSkeleton": true,
-  "EspFov": true,
+    {
+      "bundleID": "com.dts.freefiremax",
 
-  "server_line": true,
-  "server_esp": true,
-  "server_headshot": true,
-  "server_aim": true,
-  "server_box": true,
-  "server_distance": true,
-  "server_skeleton": true,
-  "server_health": true,
-  "server_name": true,
+      "relativePaths": [
+        "Documents/Assembly-CSharp-patch.bytes",
+        "Documents/localConfig.json"
+      ],
 
-  "NoRecoil": true,
-  "AimSystemEnabled": false,
-  "system_active": true
+      "replacementFilenames": [
+        "file1",
+        "file2"
+      ]
+    }
+  ]
 }
