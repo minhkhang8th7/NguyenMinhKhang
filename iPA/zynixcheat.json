@@ -1,35 +1,24 @@
-{
-  "version": 1,
-  "name": "NMKIOSVN Remote Patch",
-  "enabled": true,
-
-  "files": [
-    {
-      "bundleID": "com.dts.freefireth",
-
-      "relativePaths": [
-        "Documents/Assembly-CSharp-patch.bytes",
-        "Documents/localConfig.json"
-      ],
-
-      "replacementFilenames": [
-        "file1",
-        "file2"
-      ]
-    },
-
-    {
-      "bundleID": "com.dts.freefiremax",
-
-      "relativePaths": [
-        "Documents/Assembly-CSharp-patch.bytes",
-        "Documents/localConfig.json"
-      ],
-
-      "replacementFilenames": [
-        "file1",
-        "file2"
-      ]
-    }
-  ]
-}
+[
+  {
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "file1",
+      "file2"
+    ]
+  },
+  {
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "file1",
+      "file2"
+    ]
+  }
+]
