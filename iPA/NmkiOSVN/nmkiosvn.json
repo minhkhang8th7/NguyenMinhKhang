@@ -23,11 +23,121 @@
   },
   {
     "id": "sup-feature-2",
+    "title": "Aim Slient Head x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#FF2D55",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "aimslienthead.bytes",
+      "slienthead.json"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000002",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-3",
+    "title": "Aim Slient Body x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#FF9500",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "aimslientbody.bytes",
+      "slientbody.json"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000003",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-4",
+    "title": "Aim Head x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#34C759",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "aimhead.bytes",
+      "head.json"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-5",
+    "title": "Aim Neck x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#007AFF",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "aimneck.bytes",
+      "neck.json"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000005",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-6",
+    "title": "ESP No Aim",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#5856D6",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "esp.bytes",
+      "esp.json"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000006",
+    "isOn": false
+  },
+  {
+    "id": "sup-feature-7",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
     "icon": "tshirt.fill",
-    "tintHex": "#5856D6",
+    "tintHex": "#AF52DE",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -38,16 +148,16 @@
       "V1-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000002",
+    "projectID": "10000000-0000-0000-0000-000000000007",
     "isOn": false
   },
   {
-    "id": "sup-feature-3",
+    "id": "sup-feature-8",
     "title": "Alok Thức Tỉnh V2",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V2.",
     "icon": "tshirt.fill",
-    "tintHex": "#AF52DE",
+    "tintHex": "#FF1744",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -58,16 +168,16 @@
       "V2-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000003",
+    "projectID": "10000000-0000-0000-0000-000000000008",
     "isOn": false
   },
   {
-    "id": "sup-feature-4",
+    "id": "sup-feature-9",
     "title": "Alok Thức Tỉnh V3",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V3.",
     "icon": "tshirt.fill",
-    "tintHex": "#FF1744",
+    "tintHex": "#E91E63",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -78,16 +188,16 @@
       "V3-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000004",
+    "projectID": "10000000-0000-0000-0000-000000000009",
     "isOn": false
   },
   {
-    "id": "sup-feature-5",
+    "id": "sup-feature-10",
     "title": "Alok Thức Tỉnh V4",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V4.",
     "icon": "tshirt.fill",
-    "tintHex": "#E91E63",
+    "tintHex": "#9C27B0",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -98,16 +208,16 @@
       "V4-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000005",
+    "projectID": "10000000-0000-0000-0000-000000000010",
     "isOn": false
   },
   {
-    "id": "sup-feature-6",
+    "id": "sup-feature-11",
     "title": "Alok Thức Tỉnh V5",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V5.",
     "icon": "tshirt.fill",
-    "tintHex": "#9C27B0",
+    "tintHex": "#673AB7",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -118,16 +228,16 @@
       "V5-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000006",
+    "projectID": "10000000-0000-0000-0000-000000000011",
     "isOn": false
   },
   {
-    "id": "sup-feature-7",
+    "id": "sup-feature-12",
     "title": "Alok Thức Tỉnh V6",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V6.",
     "icon": "tshirt.fill",
-    "tintHex": "#673AB7",
+    "tintHex": "#3F51B5",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -138,16 +248,16 @@
       "V6-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000007",
+    "projectID": "10000000-0000-0000-0000-000000000012",
     "isOn": false
   },
   {
-    "id": "sup-feature-8",
+    "id": "sup-feature-13",
     "title": "Alok Thức Tỉnh V7",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V7.",
     "icon": "tshirt.fill",
-    "tintHex": "#3F51B5",
+    "tintHex": "#2196F3",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -158,16 +268,16 @@
       "V7-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000008",
+    "projectID": "10000000-0000-0000-0000-000000000013",
     "isOn": false
   },
   {
-    "id": "sup-feature-9",
+    "id": "sup-feature-14",
     "title": "Alok Thức Tỉnh V8",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V8.",
     "icon": "tshirt.fill",
-    "tintHex": "#2196F3",
+    "tintHex": "#00BCD4",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -178,16 +288,16 @@
       "V8-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000009",
+    "projectID": "10000000-0000-0000-0000-000000000014",
     "isOn": false
   },
   {
-    "id": "sup-feature-10",
+    "id": "sup-feature-15",
     "title": "Alok Thức Tỉnh V9",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V9.",
     "icon": "tshirt.fill",
-    "tintHex": "#00BCD4",
+    "tintHex": "#009688",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -198,16 +308,16 @@
       "V9-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000010",
+    "projectID": "10000000-0000-0000-0000-000000000015",
     "isOn": false
   },
   {
-    "id": "sup-feature-11",
+    "id": "sup-feature-16",
     "title": "Alok Thức Tỉnh V10",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V10.",
     "icon": "tshirt.fill",
-    "tintHex": "#009688",
+    "tintHex": "#4CAF50",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -218,16 +328,16 @@
       "V10-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000011",
+    "projectID": "10000000-0000-0000-0000-000000000016",
     "isOn": false
   },
   {
-    "id": "sup-feature-12",
+    "id": "sup-feature-17",
     "title": "Alok Thức Tỉnh V11",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V11.",
     "icon": "tshirt.fill",
-    "tintHex": "#4CAF50",
+    "tintHex": "#8BC34A",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -238,16 +348,16 @@
       "V11-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000012",
+    "projectID": "10000000-0000-0000-0000-000000000017",
     "isOn": false
   },
   {
-    "id": "sup-feature-13",
+    "id": "sup-feature-18",
     "title": "Alok Thức Tỉnh V12",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V12.",
     "icon": "tshirt.fill",
-    "tintHex": "#8BC34A",
+    "tintHex": "#FF9800",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -258,16 +368,16 @@
       "V12-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000013",
+    "projectID": "10000000-0000-0000-0000-000000000018",
     "isOn": false
   },
   {
-    "id": "sup-feature-14",
+    "id": "sup-feature-19",
     "title": "Alok Thức Tỉnh V13",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V13.",
     "icon": "tshirt.fill",
-    "tintHex": "#FF9800",
+    "tintHex": "#FF5722",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -278,16 +388,16 @@
       "V13-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000014",
+    "projectID": "10000000-0000-0000-0000-000000000019",
     "isOn": false
   },
   {
-    "id": "sup-feature-15",
+    "id": "sup-feature-20",
     "title": "Alok Thức Tỉnh V14",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V14.",
     "icon": "tshirt.fill",
-    "tintHex": "#FF5722",
+    "tintHex": "#795548",
     "targetAppID": "normal",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefireth",
@@ -298,7 +408,7 @@
       "V14-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000015",
+    "projectID": "10000000-0000-0000-0000-000000000020",
     "isOn": false
   },
   {
@@ -325,6 +435,116 @@
   },
   {
     "id": "lion-feature-2",
+    "title": "Aim Slient Head x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#E53935",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "aimslienthead.bytes",
+      "slienthead.json"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000002",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-3",
+    "title": "Aim Slient Body x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#FB8C00",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "aimslientbody.bytes",
+      "slientbody.json"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000003",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-4",
+    "title": "Aim Head x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#43A047",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "aimhead.bytes",
+      "head.json"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-5",
+    "title": "Aim Neck x ESP",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#1E88E5",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "aimneck.bytes",
+      "neck.json"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000005",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-6",
+    "title": "ESP No Aim",
+    "subtitle": "",
+    "content": "",
+    "icon": "dot.scope",
+    "tintHex": "#8E24AA",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "esp.bytes",
+      "esp.json"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000006",
+    "isOn": false
+  },
+  {
+    "id": "lion-feature-7",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -340,16 +560,16 @@
       "V1-FFM"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000002",
+    "projectID": "20000000-0000-0000-0000-000000000007",
     "isOn": false
   },
   {
-    "id": "lion-feature-3",
+    "id": "lion-feature-8",
     "title": "Alok Thức Tỉnh V2",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V2.",
     "icon": "tshirt.fill",
-    "tintHex": "#AF52DE",
+    "tintHex": "#D81B60",
     "targetAppID": "max",
     "categoryID": "modSkin",
     "bundleID": "com.dts.freefiremax",
@@ -360,7 +580,7 @@
       "V2-FFM"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000003",
+    "projectID": "20000000-0000-0000-0000-000000000008",
     "isOn": false
   }
 ]
