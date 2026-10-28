@@ -1,86 +1,28 @@
 [
   {
     "id": "sup-feature-1",
-    "title": "Aim Body",
+    "title": "MENU VIP",
     "subtitle": "",
-    "content": "Xoá máu vàng.",
+    "content": "Chạm 3 Lần Để Ẩn / Hiện Menu",
     "icon": "dot.scope",
-    "tintHex": "#007AFF",
+    "tintHex": "#FFD700",
     "targetAppID": "normal",
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
     ],
     "replacementFilenames": [
-      "AimBody"
+      "zynixcheat",
+      "configjs"
     ],
-    "saveSetting": false,
+    "saveSetting": true,
     "projectID": "10000000-0000-0000-0000-000000000001",
     "isOn": false
   },
   {
     "id": "sup-feature-2",
-    "title": "Aim Drag",
-    "subtitle": "",
-    "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
-    "icon": "dot.scope",
-    "tintHex": "#AF52DE",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "AimDrag"
-    ],
-    "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000002",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-3",
-    "title": "Aim Neck",
-    "subtitle": "",
-    "content": "Hỗ trợ kéo nhẹ lên cổ.",
-    "icon": "dot.scope",
-    "tintHex": "#FF9500",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "AimNeck"
-    ],
-    "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000003",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-4",
-    "title": "Aim Head",
-    "subtitle": "",
-    "content": "Hỗ trợ kéo nhẹ lên đầu.",
-    "icon": "dot.scope",
-    "tintHex": "#FF3B30",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
-    ],
-    "replacementFilenames": [
-      "AimHead"
-    ],
-    "saveSetting": false,
-    "projectID": "10000000-0000-0000-0000-000000000004",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-5",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -96,11 +38,11 @@
       "V1-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000005",
+    "projectID": "10000000-0000-0000-0000-000000000002",
     "isOn": false
   },
   {
-    "id": "sup-feature-6",
+    "id": "sup-feature-3",
     "title": "Alok Thức Tỉnh V2",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V2.",
@@ -116,11 +58,11 @@
       "V2-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000006",
+    "projectID": "10000000-0000-0000-0000-000000000003",
     "isOn": false
   },
   {
-    "id": "sup-feature-7",
+    "id": "sup-feature-4",
     "title": "Alok Thức Tỉnh V3",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V3.",
@@ -136,11 +78,11 @@
       "V3-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000007",
+    "projectID": "10000000-0000-0000-0000-000000000004",
     "isOn": false
   },
   {
-    "id": "sup-feature-8",
+    "id": "sup-feature-5",
     "title": "Alok Thức Tỉnh V4",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V4.",
@@ -156,11 +98,11 @@
       "V4-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000008",
+    "projectID": "10000000-0000-0000-0000-000000000005",
     "isOn": false
   },
   {
-    "id": "sup-feature-9",
+    "id": "sup-feature-6",
     "title": "Alok Thức Tỉnh V5",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V5.",
@@ -176,11 +118,11 @@
       "V5-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000009",
+    "projectID": "10000000-0000-0000-0000-000000000006",
     "isOn": false
   },
   {
-    "id": "sup-feature-10",
+    "id": "sup-feature-7",
     "title": "Alok Thức Tỉnh V6",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V6.",
@@ -196,11 +138,11 @@
       "V6-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000010",
+    "projectID": "10000000-0000-0000-0000-000000000007",
     "isOn": false
   },
   {
-    "id": "sup-feature-11",
+    "id": "sup-feature-8",
     "title": "Alok Thức Tỉnh V7",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V7.",
@@ -216,11 +158,11 @@
       "V7-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000011",
+    "projectID": "10000000-0000-0000-0000-000000000008",
     "isOn": false
   },
   {
-    "id": "sup-feature-12",
+    "id": "sup-feature-9",
     "title": "Alok Thức Tỉnh V8",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V8.",
@@ -236,11 +178,11 @@
       "V8-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000012",
+    "projectID": "10000000-0000-0000-0000-000000000009",
     "isOn": false
   },
   {
-    "id": "sup-feature-13",
+    "id": "sup-feature-10",
     "title": "Alok Thức Tỉnh V9",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V9.",
@@ -256,11 +198,11 @@
       "V9-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000013",
+    "projectID": "10000000-0000-0000-0000-000000000010",
     "isOn": false
   },
   {
-    "id": "sup-feature-14",
+    "id": "sup-feature-11",
     "title": "Alok Thức Tỉnh V10",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V10.",
@@ -276,11 +218,11 @@
       "V10-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000014",
+    "projectID": "10000000-0000-0000-0000-000000000011",
     "isOn": false
   },
   {
-    "id": "sup-feature-15",
+    "id": "sup-feature-12",
     "title": "Alok Thức Tỉnh V11",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V11.",
@@ -296,11 +238,11 @@
       "V11-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000015",
+    "projectID": "10000000-0000-0000-0000-000000000012",
     "isOn": false
   },
   {
-    "id": "sup-feature-16",
+    "id": "sup-feature-13",
     "title": "Alok Thức Tỉnh V12",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V12.",
@@ -316,91 +258,33 @@
       "V12-FFTH"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000016",
-    "isOn": false
-  },
-  {
-    "id": "sup-feature-17",
-    "title": "Alok Thức Tỉnh V13",
-    "subtitle": "",
-    "content": "Mod nhân vật Alok Thức Tỉnh V13.",
-    "icon": "tshirt.fill",
-    "tintHex": "#FF9800",
-    "targetAppID": "normal",
-    "categoryID": "modSkin",
-    "bundleID": "com.dts.freefireth",
-    "relativePaths": [
-      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm~2FgqXYqB7dDyULWdn4~3D"
-    ],
-    "replacementFilenames": [
-      "V13-FFTH"
-    ],
-    "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000017",
+    "projectID": "10000000-0000-0000-0000-000000000013",
     "isOn": false
   },
   {
     "id": "lion-feature-1",
-    "title": "Aim Body",
+    "title": "MENU VIP",
     "subtitle": "",
-    "content": "Xoá máu vàng.",
+    "content": "Chạm 3 Lần Để Ẩn / Hiện Menu",
     "icon": "dot.scope",
-    "tintHex": "#5AC8FA",
+    "tintHex": "#FFD700",
     "targetAppID": "max",
     "categoryID": "aim",
     "bundleID": "com.dts.freefiremax",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
     ],
     "replacementFilenames": [
-      "AimBody"
+      "zynixcheat",
+      "configjs"
     ],
-    "saveSetting": false,
+    "saveSetting": true,
     "projectID": "20000000-0000-0000-0000-000000000001",
     "isOn": false
   },
   {
     "id": "lion-feature-2",
-    "title": "Aim Drag",
-    "subtitle": "",
-    "content": "Hỗ trợ kéo nhẹ lên đỉnh đầu.",
-    "icon": "dot.scope",
-    "tintHex": "#8E24AA",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "AimDrag"
-    ],
-    "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000002",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-3",
-    "title": "Aim Neck",
-    "subtitle": "",
-    "content": "Hỗ trợ kéo nhẹ lên cổ.",
-    "icon": "dot.scope",
-    "tintHex": "#FFCC00",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
-    ],
-    "replacementFilenames": [
-      "AimNeck"
-    ],
-    "saveSetting": false,
-    "projectID": "20000000-0000-0000-0000-000000000003",
-    "isOn": false
-  },
-  {
-    "id": "lion-feature-4",
     "title": "Alok Thức Tỉnh V1",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V1.",
@@ -416,11 +300,11 @@
       "V1-FFM"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000004",
+    "projectID": "20000000-0000-0000-0000-000000000002",
     "isOn": false
   },
   {
-    "id": "lion-feature-5",
+    "id": "lion-feature-3",
     "title": "Alok Thức Tỉnh V2",
     "subtitle": "",
     "content": "Mod nhân vật Alok Thức Tỉnh V2.",
@@ -436,7 +320,7 @@
       "V2-FFM"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000005",
+    "projectID": "20000000-0000-0000-0000-000000000003",
     "isOn": false
   }
 ]
